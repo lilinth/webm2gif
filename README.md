@@ -6,5 +6,5 @@ Usage:
 ```
 Run webm2gif.exe directly and select your folder then click on start. Just enjoy it.
 ```
-![Example Image](ui1.png)
-![Example Image](ui2.png)
+![Example Image](ui1.PNG)
+![Example Image](ui2.PNG)
