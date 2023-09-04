@@ -1,3 +1,9 @@
+# refer to https://gist.github.com/Potherca/18423260e2c9a4324c9ecb0c0a284066
+#inputfile='/path/to/file.webm';
+#outputfile="$(basename "${inputfile%.*}")";
+#ffmpeg -i "${inputfile}" -pix_fmt rgb8 "${outputfile}.gif" \
+#    && gifsicle --optimize=3 --output "${outputfile}-optimized.gif" --resize-height 600 "${outputfile}.gif"
+
 # -*- coding: UTF-8 -*-
 import tkinter as tk
 from tkinter import filedialog
@@ -127,7 +133,6 @@ open_gif_folder_button.grid(row=5, column=3)
 progressbar = ttk.Progressbar(root, length=400, mode="determinate")
 progressbar.grid(row=3, column=1, columnspan=3, pady=10)
 
-# 添加一个tag，用于设置文本颜色
 text_result.tag_configure("result", foreground="green")
 
 
