@@ -1,4 +1,4 @@
-[![Lilinth's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilinth)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 # webm2gif
@@ -14,3 +14,5 @@ Run webm2gif.exe directly and select your folder then click on start. Just enjoy
 ```
 ![Example Image](ui1.PNG)
 ![Example Image](ui2.PNG)
+
+[![Lilinth's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilinth)](https://github.com/anuraghazra/github-readme-stats)
